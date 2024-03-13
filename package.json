@@ -1,0 +1,27 @@
+{
+  "name": "@chxxxxxx1/ioc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "nodemon src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chxxxxxx1/ioc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chxxxxxx1/ioc/issues"
+  },
+  "homepage": "https://github.com/chxxxxxx1/ioc#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  }
+}
